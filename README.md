@@ -1,5 +1,4 @@
-### Olá, meu nome é Janaína Cazuza, DevOps trilhando o caminho para me tornar Platform Engineer 
-
+### Olá, meu nome é Janaína Cazuza, Engenheira de Software trilhando o caminho para me tornar Front-End/Full-Stack Engineer
 <a href="https://github.com/janainacazuza/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=janainacazuza&show_icons=true&theme=synthwave" />
 </a>
