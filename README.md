@@ -1,7 +1,7 @@
 ##
 
 <div align = center>
-  <h2> Olá, meu nome é Janaína Cazuza, Engenheira de Software trilhando o caminho para Especializar em Back-End tendo Java como minha principal liguagem</h2>
+  <h2> Olá, meu nome é Janaína Cazuza, Engenheira de Software trilhando o caminho para Engenharia de Dados. Minhas principais linguagebs são Python e Java </h2>
 </div>
 
 
