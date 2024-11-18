@@ -1,7 +1,7 @@
 ##
 
 <div align = center>
-  <h2> Olá, meu nome é Janaína Cazuza, Cientista da Computação o caminho para Cientista de dados. Minha principal linguagem é Python </h2>
+  <h2>Hello, my name is Janaína Cazuza. I am currently following the path of Data Science with the ultimate goal of becoming a Quant Analyst in financial markets. Graduated in Medicine, studying Computer Science and postgraduate studies in Analysis and Data Science. I invite you to discover my work and projects in my main languages: Python, SQL and C++. </h2>
 </div>
 
 
