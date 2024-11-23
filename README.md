@@ -18,6 +18,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Cazuza-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Cazuza-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Cazuza-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">          
   <img align="center" alt="Cazuza-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Cazuza-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Cazuza-postgre" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
