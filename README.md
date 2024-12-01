@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geist&weight=900&size=19&duration=4000&pause=900&color=9F8AC0D4&width=450&lines=Hello%2C+my+name+is+Jana%C3%ADna+Cazuza;Following+the+path+of+Quant+Analyst+;Starting+with+Data+Science;Leaving+behind+a+Medical+Degree;Graduating++in+Computer+Science;Postgraduating+in++Analysis+and+Data+Science;I+invite+you+to+follow;My+projects+and+my+study+work)](https://git.io/typing-svg)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=janainacazuza&bg_color=0000000&color=a02dbe&line=a02dbe&point=b8b7b7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -17,14 +17,11 @@
 <h3>Main Skills</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cazuza-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Cazuza-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Cazuza-R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">          
   <img align="center" alt="Cazuza-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Cazuza-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Cazuza-postgre" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Cazuza-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"> 
-  <img align="center" alt="Cazuza-ApacheSpark" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
-  <img align="center" alt="Cazuza-Tensorflow" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Cazuza-ApacheSpark" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
   <img align="center" alt="Cazuza-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
 </div>
