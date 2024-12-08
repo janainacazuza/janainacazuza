@@ -1,29 +1,29 @@
 
-<!-- Imagem de capa -->
-<img src="https://github.com/janainacazuza/janainacazuza/blob/main/data_platform.webp" alt="Capa" style="width: 100%; height: 300px; object-fit: cover;"/>
+<!-- Cover Image -->
+<img src="https://github.com/janainacazuza/janainacazuza/blob/main/data_platform.webp" alt="Cover Image" style="width: 100%; height: 300px; object-fit: cover;"/>
 
 ---
 
-## Sobre Mim  
-Sabe aquela frase que todo mundo repete: **'Os dados são o novo petróleo'**? Pois bem... Eu sou uma apaixonada por dados que constrói pipelines e plataformas de dados como quem perfura um poço de petróleo, instala tubulações e refina tudo. Mas, em vez de petróleo, extraio dados brutos, refino e transformo em insights que ajudam as empresas a decolarem!
+## About Me  
+You know that phrase everyone keeps saying, **'Data is the new oil'**? Well... I'm a data enthusiast who builds pipelines and data platforms like drilling an oil well, laying down pipelines, and refining it all. But instead of oil, I extract raw data, refine it, and turn it into insights that empower companies to take off!
 
 <br><br>
 
 ---
 
-## Habilidades  
-- **Engenharia e Arquitetura de Dados**: Experiência na construção e otimização de pipelines e plataformas escaláveis, aplicando melhores práticas de engenharia e arquitetura de sistemas.  
-- **Infraestrutura em Nuvem**: Proficiente em soluções na nuvem com AWS e Azure, criando ambientes robustos e escaláveis para grandes volumes de dados.  
-- **Pipelines de Dados**: Criação e manutenção de pipelines eficientes usando Apache Spark, Python e SQL para integração, transformação e otimização de dados.  
-- **Big Data**: Implementação de soluções para processamento e análise de grandes volumes de dados utilizando tecnologias como Apache Spark e bancos de dados NoSQL (MongoDB, PostgreSQL).  
-- **Bancos de Dados SQL e NoSQL**: Expertise em SQL (PostgreSQL) e NoSQL (MongoDB) para manipulação e análise de dados em diferentes contextos.  
-- **Programação e Automação**: Domínio de Python para desenvolvimento de soluções escaláveis e eficientes para processamento de dados e automação de tarefas.
+## Core Skills  
+- **Data Engineering & Architecture**: Expertise in building and optimizing data pipelines and scalable platforms, leveraging best practices in data engineering and system architecture.  
+- **Cloud Infrastructure**: Proficient in cloud solutions with AWS and Azure, creating robust and scalable environments for large data volumes.  
+- **Data Pipelines**: Building and maintaining efficient data pipelines using Apache Spark, Python, and SQL for data integration, transformation, and optimization.  
+- **Big Data**: Implementing solutions to process and analyze large data volumes using Big Data technologies like Apache Spark and NoSQL databases (MongoDB, PostgreSQL).  
+- **SQL & NoSQL Databases**: Expertise in SQL (PostgreSQL) and NoSQL (MongoDB) for data manipulation and analysis in various contexts.  
+- **Programming & Automation**: Proficiency in Python for developing scalable and efficient data processing and task automation solutions.
 
 <br><br>
 
 ---
 
-## Stack Tecnológico  
+## Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -45,8 +45,8 @@ Sabe aquela frase que todo mundo repete: **'Os dados são o novo petróleo'**? P
 
 ---
 
-## Linguagens Mais Usadas  
-Resumo das linguagens que uso frequentemente em meus projetos de engenharia de dados.
+## My Most Used Languages  
+Below is a summary of the programming languages ​​I frequently work with in my data engineering projects.
 
 <a href="https://github.com/janainacazuza">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janainacazuza&layout=donut&langs_count=8&card_width=300&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0d1117&hide_title=true&text_color=ffffff&cache_seconds=1800" />
@@ -56,7 +56,7 @@ Resumo das linguagens que uso frequentemente em meus projetos de engenharia de d
 
 ---
 
-## Projetos em Destaque  
+## Featured Projects  
 <div>
   <a href="https://github.com/janainacazuza/courses">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janainacazuza&repo=courses&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
@@ -70,13 +70,12 @@ Resumo das linguagens que uso frequentemente em meus projetos de engenharia de d
 
 ---
 
-## Contatos  
+## Contacts  
 <div>
   <a href="mailto:janainacazuza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/janainacazuza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.kaggle.com/janainacazuza" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://www.hackerrank.com/profile/janainacazuza" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://medium.com/@janainacazuza" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>
 
 <br><br>
