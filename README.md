@@ -58,8 +58,8 @@ Below is a summary of the programming languages ​​I frequently work with in 
 
 ## Featured Projects  
 <div>
-  <a href="https://github.com/janainacazuza/courses">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janainacazuza&repo=courses&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
+  <a href="https://github.com/janainacazuza/challenges/tree/main/fiap_challenge_ibovespa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janainacazuza&repo=challenges&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
   </a>
   <a href="https://github.com/janainacazuza/dev_utils">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=janainacazuza&repo=dev_utils&bg_color=0d1117&title_color=A1A1A1&icon_color=A1A1A1&text_color=ffffff" />
