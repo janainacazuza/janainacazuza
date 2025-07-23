@@ -44,19 +44,23 @@ Our first project involves building a complete data pipeline on AWS, fully provi
 
 ### 📊 My GitHub Stats
 
-<table align="center">
-  <tr valign="top">
-    <td>
+<table align="center" style="border-collapse: collapse;">
+  <tbody>
+    <tr style="vertical-align: top;">
+      <td style="padding: 5px;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=janainacazuza&show_icons=true&include_all_commits=true&count_private=true&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&icon_color=FFCA28&border_color=30363d"
-        height="180"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainacazuza&layout=compact&langs_count=7&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&border_color=30363d"
-        height="180"
-      />
-    </td>
-  </tr>
+  src="https://github-readme-stats.vercel.app/api/?username=janainacazuza&show_icons=true&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&icon_color=FFCA28&border_color=30363d"
+  alt="Estatísticas do GitHub"
+  height="180"
+/>
+      </td>
+      <td style="padding: 5px;">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=janainacazuza&layout=compact&langs_count=7&bg_color=1A1B27&title_color=FFCA28&text_color=EAEAEA&border_color=30363d"
+          alt="Linguagens mais utilizadas por janainacazuza"
+          height="180"
+        />
+      </td>
+    </tr>
+  </tbody>
 </table>
