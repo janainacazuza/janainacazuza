@@ -11,34 +11,34 @@
   </a>
 </p>
 
-Data Engineer with a foundation in Computer Science, focused on architecting and automating end-to-end data pipelines. 
+Data Engineer with a strong foundation in Software Engineering and Computer Science, focused on architecting and automating end-to-end data pipelines. 
 
 My passion for systems and algorithms, cultivated during my CS degree, found its purpose in Data Engineering. I realized that building scalable data platforms is the ultimate application of core CS fundamentals: architecting distributed systems, optimizing the flow of information, and ensuring that code is not just functional, but also efficient and robust at a large scale.
 
 ---
 
-### 🛠️ Core Tech Stack (Phase 1)
+## Tech Stack & Competencies – Ongoing Development
 
-My current focus is on mastering this foundational toolkit for building modern data platforms.
+My work is structured around a continuous process of practical application in the following areas:
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
-</p>
+| Category                  | Technologies & Tools                              |
+|---------------------------|---------------------------------------------------|
+| **Languages**             | Python, SQL                                       |
+| **Theory & Algorithms**   | Data Structures, Complexity Analysis (Big O)      |
+| **Architecture & Design** | OOP, Design Patterns, Microservices, REST APIs    |
+| **Engineering Practices** | Git, TDD (pytest), CI/CD, Linting (ruff)          |
+| **Systems & Infrastructure** | FastAPI, Docker, PostgreSQL, RabbitMQ, Kafka  |
+
 
 ---
 
-### 🚀 Featured Portfolio: Asymptora Data Lab
+## Core Projects
 
-This is my primary focus: a data engineering portfolio I develop with my husband and fellow Data Engineer, Higor Cazuza. **Asymptora** is our lab for implementing enterprise-grade, end-to-end data solutions on the cloud.
+| Project | Description |
+|---------|-------------|
+| [Engineering Logbook](https://github.com/janainacazuza/data-engineering-journey) | My public engineering logbook. It is the detailed and auditable record of my studies and implementations, from fundamentals to complex systems. |
+| [Asymptora R&D Lab](https://github.com/Asymptora) | R&D lab co-founded with Higor Cazuzaza ([higorcazuza81](https://github.com/higorcazuza81)) to research, prototype, and stress-test production-grade data platform solutions. |
 
-Our first project involves building a complete data pipeline on AWS, fully provisioned with Terraform and orchestrated by Airflow. The goal is to demonstrate mastery over the core pillars of modern data platform engineering.
-
-### **[➡️ Dive into the Asymptora Project Repository](https://github.com/Asymptora)**
 
 ---
 
