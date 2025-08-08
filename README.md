@@ -33,7 +33,7 @@ Este é o foco do meu trabalho atual. Um projeto completo que demonstra minhas h
 * **Orquestração de Pipelines/ETL** com Apache Airflow.
 * **Data Warehouse** modelado em Star Schema no Amazon RDS (PostgreSQL).
 
-➡️ **[Ainda em construção - Link para o repositório aqui quando estiver pronto]**
+➡️ **[MVP Asymptora - Data Platform on AWS](https://github.com/janainacazuza/aws-data-platform-asymptora)**
 
 ---
 
