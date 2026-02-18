@@ -1,60 +1,117 @@
-# Janaína Cazuza | Systems Performance Engineer (In Transition)
+<div align="center">
 
-### From Critical Care Medicine to Critical Data Systems.
+```
+┌─────────────────────────────────────────────────────────┐
+│  JANAÍNA CAZUZA                                         │
+│  Software Engineer   ::   Java Platform & Backend       │
+└─────────────────────────────────────────────────────────┘
+```
 
-I don't just move data; I engineer the cost and latency of every byte.
-Transitioning from Medicine to High-Performance Data Engineering with a focus on **Streaming Systems**, **Low-Level Optimization**, and **Infrastructure Cost Efficiency**.
+[![Java](https://img.shields.io/badge/Java_21|25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
 
-My background in critical care medicine trained me to diagnose complex systems under pressure. Today, I apply that same diagnostic rigor to distributed systems, focusing on observability, fault tolerance, and "physics-first" engineering.
-
----
-
-###  Engineering Philosophy: "Logic First, Metric Second"
-
-I believe modern abstractions often hide incompetence. My work focuses on understanding the underlying mechanics (OS, Memory, Network) to build systems that are not just functional, but efficient and predictable.
-
-* **Audit-Driven Development:** If it can't be measured (CPU cycles, I/O wait, Latency), it doesn't exist.
-* **Infrastructure as Code:** ClickOps is forbidden. Everything is reproducible via Terraform/Docker.
-* **Foundations over Frameworks:** Mastery of C and Linux Internals to better optimize high-level Python/Java pipelines.
+</div>
 
 ---
 
-###  Core Stack & Learning Track
+## About
 
-| Domain | Tooling & Concepts |
-| :--- | :--- |
-| **Low-Level Foundations** | **C** (Memory Management), **Linux Internals** (Syscalls, Processes), **Networking** (TCP/IP tuning) |
-| **Data Engineering** | **Python** (Pandas/PyArrow - Vectorized Execution), **SQL** (Postgres Query Planning) |
-| **Containerization** | **Docker** (Multi-stage builds, Distroless images), **ECS/Fargate** |
-| **Orchestration** | **Apache Airflow** (Custom Operators) |
-| **Infra as Code** | **Terraform** (Modular Architecture) |
+Backend Software Engineer with a focus on **correctness, clarity, and long-term maintainability** of systems built on the Java platform.
 
----
+My approach to engineering starts from the fundamentals: understanding **data structures, algorithms, and computational trade offs** not as knowledge to be recited, but as lenses through which every design decision is examined. A well-chosen structure or a clearly scoped abstraction prevents entire categories of problems before they arise.
 
-###  Featured Engineering Asset: [Data Engineering Journey](https://github.com/janainacazuza/data-engineering-journey)
+I track the **Java platform from version 21 through 25** closely: the concurrency model introduced by Project Loom, the expressiveness gains from records and sealed types, and the ongoing work of Project Valhalla on value semantics. These are not features to collect; they are tools that change how problems can be reasoned about.
 
-*Note: This is not a tutorial repo. This is an Engineering Logbook documenting the build of a production-grade Data Platform from scratch.*
-
-**Current Sprint Status:** `v0.1 Delivered` (Dockerized Ingestion Pipeline)
-
-**The Engineering Challenge:**
-Ingest high-frequency data from public APIs while minimizing storage footprint and ensuring reproducibility across environments (Local vs Cloud).
-
-**Key Implementations:**
-* **Storage Optimization:** Implemented a columnar storage strategy (**Parquet + Snappy**), achieving **~48% reduction** in file size compared to standard JSON row-based storage.
-* **Containerization:** Full isolation using Docker (Debian Slim base) with non-root user security.
-* **Reliability:** Centralized configuration management and rigid type-hinting (mypy) for compile-time safety in Python.
-
- **[View Code & Architecture](https://github.com/janainacazuza/data-engineering-journey)**
+> _"Good software is not the result of clever code. It is the result of clear thinking applied consistently."_
 
 ---
 
-### Long-Term Project: [Asymptora - Data Platform](https://github.com/janainacazuza/aws-data-platform-asymptora)
-*(Under Construction)*
-Designing an end-to-end cloud data platform with strict SLOs (Service Level Objectives) for availability and throughput.
+## Core Competencies
+
+### Java Platform
+
+| Area | Detail |
+|---|---|
+| **Type System** | Records, sealed classes, pattern matching for switch, exhaustive modeling of domain states |
+| **Concurrency Model** | Virtual Threads (Project Loom), Structured Concurrency, understanding of thread safety boundaries |
+| **Java 25 Preview** | Value classes (Project Valhalla), unnamed patterns and variables, string templates |
+| **JVM Behavior** | Memory model, garbage collection (G1, ZGC), class loading and runtime compilation basics |
+| **Standard Library** | Collections framework, Stream API, Optional, and functional interface composition |
+
+### Algorithms & Data Structures
+
+| Area | Detail |
+|---|---|
+| **Fundamental Structures** | Arrays, linked lists, trees (BST, AVL), hash tables, heaps, graphs |
+| **Problem Solving Strategies** | Divide and conquer, dynamic programming, greedy approaches, backtracking |
+| **Complexity Reasoning** | Evaluating time and space complexity as part of every implementation decision |
+| **Ordering & Retrieval** | Sorting algorithms, binary search and its application in real backend scenarios |
+
+### Backend & Persistence
+
+| Area | Detail |
+|---|---|
+| **Spring Boot 3.x** | Application layering, dependency injection, lifecycle and transaction management |
+| **Spring Data JPA** | Repository design, fetch strategy control, N+1 identification and resolution |
+| **PostgreSQL** | Relational schema design, index strategy, query analysis, transactional integrity |
+| **REST API Design** | Resource modeling, error contracts, versioning and documentation practices |
 
 ---
 
-###  Contact
+## Selected Projects
 
-**[LinkedIn](https://www.linkedin.com/in/janainacazuza/)** | 
+### Domain Modeling with Java 21 Sealed Types and Pattern Matching
+
+**Context:** Representing complex business states in a backend service without relying on unchecked conditionals or fragile inheritance hierarchies.
+
+**Engineering decisions:**
+
+Designed the domain model using **sealed interfaces and records** to enforce exhaustive state representation at compile time. Applied **pattern matching for switch** to replace brittle instance of chains with expressive, type-safe dispatch. Validated the design using unit tests that verified each state transition explicitly, treating the type system as a first line of correctness.
+
+**Outcome:** A domain layer where invalid states are unrepresentable and business logic reads as a direct expression of the problem, not an artifact of the implementation language.
+
+---
+
+### Persistence Layer with Spring Boot 3 and PostgreSQL
+
+**Context:** Building a data layer that remains consistent and observable as the application grows in complexity and load.
+
+**Engineering decisions:**
+
+Structured the persistence layer around clear transactional boundaries, ensuring that each operation either completes fully or leaves the system in a known state. Resolved **N+1 query problems** through deliberate fetch strategy configuration and query consolidation. Applied index analysis to guarantee that query performance does not degrade silently as data volume increases.
+
+**Outcome:** A persistence layer that behaves predictably under load and is straightforward to reason about during maintenance and evolution.
+
+---
+
+## Technology Radar
+
+```
+Adopted        →  Java 21+, Spring Boot 3, PostgreSQL, Git, Docker
+Experimenting  →  Java 25 preview features (Valhalla), Testcontainers, Structured Concurrency APIs
+Watching       →  GraalVM Native Image, Project Panama, OpenTelemetry for JVM
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+| | |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/janainacazuza](https://linkedin.com/in/janainacazuza) |
+| 📬 Email | [janainacazuza@proton.me](mailto:janainacazuza@proton.me) |
+
+_Open to backend engineering roles where correctness and code quality are taken seriously._
+
+</div>
+
+---
+
+<div align="center">
+<sub>Clarity in design. Precision in execution.</sub>
+</div>
